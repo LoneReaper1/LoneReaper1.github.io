@@ -1,6 +1,6 @@
 ---- ACCESS GRANTED ----
 
->>>> North Alantic Sciences and Testing | Subdivision 8 | Portal 2 <<<<
+> North Alantic Sciences and Testing | Subdivision 8 | Portal 2
 
 
 Welcome "Remote admin", connected via: SSH
