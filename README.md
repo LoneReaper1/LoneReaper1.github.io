@@ -4,7 +4,7 @@ Welcome "Remote admin", connected via: SSH
 
 Security Clearence LvL: 4
 
-     * WARNING: Per higher command's requests, we are archiving this site for security reasons, ETA: <Unknown>
+     * WARNING: Per higher command's requests, All updates must be passed and submitted by a security clearence lvl: 6 or higher personal
 
 
 ‎ 
