@@ -101,15 +101,13 @@ Security Clearence LvL: 4
         ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 
-* S-00952 (alias: "██████")
 
-        ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
+
+        ERROR: FILE "S-00952" NOT FOUND
 
         ERROR: FILE "S-00951" NOT FOUND
 
-        ERROR: FILE "S-00950" NOT FOUND
-
-        ERROR: FOLDIER "S-00949 - S-00940" NOT FOUND
+        ERROR: FOLDIER "S-00950 - S-00940" NOT FOUND
 ‎ 
 ‎ 
 ‎ 
@@ -128,7 +126,7 @@ Security Clearence LvL: 4
 ---- LOGS ----
 * S-00957
 
-     * 2025-09-14: "00957: video tape number 005347 [hyperlink](https://youtu.be/-BhlKcBLc_s_)    
+     * 2025-09-14: "00957: video tape number 005347 [hyperlink](https://youtu.be/-BhlKcBLc_s_) "
      
      *  2025-09-14: "00957 seems to be acting a little weird, we have no idea what's happening, will continue to monitor"
 
@@ -157,18 +155,47 @@ Security Clearence LvL: 4
 ---- MESSAGES ----
 
 2025-09-14: 
+---- TIME 0050z ----
+    
+    * HRM: i got video proof
 
+    * COMMAND: mate it's 0050z i'm trying to sleep
+
+    * HRM: just watch, please
+
+    * COMMAND: ok send it over
+
+    * HRM: ██████████████████████
+
+    * COMMAND: what the fuck is he doing?
+
+    * HRM: i don't know, this isn't him
+
+    * COMMAND: look, just keep monitoring him, be careful
+
+    * HRM: copy
+
+    * [CONNECTION CLOSED: SAVED]
+
+
+
+
+
+
+
+---- TIME: 2200z ----
+    
      * COMMAND: how is 00957 doing?
      
      * HRM: he's... acting weird?
      
      * COMMAND: what do you mean he's "acting weird" he was just fine yesterday
 
-     * HRM: i d- 
+     * HRM: [MESSAGE FAILED TO SEND]
      
      * COMMAND: never mind, how is he acting?
      
-     * HRM: he's acting like someone is watching him, constantly looking over hi-
+     * HRM: he's acting like someone is watching him, constantly looking around
      
      * COMMAND: just keep monitoring him, be careful, we don't want another incident
      
@@ -188,7 +215,7 @@ Security Clearence LvL: 4
      
      * HRM: will do
 
-     * CONNECTION CLOSED: SAVED
+     * [CONNECTION CLOSED: SAVED]
 
 
 * ACCESS DENIED!: Security Clearence LvL: 6 or higher required
