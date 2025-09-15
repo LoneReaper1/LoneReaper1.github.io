@@ -60,11 +60,7 @@ Security Clearence LvL: 4
 
       ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 ‎ 
-‎ 
-‎ * S-00952 (alias: "██████")
-      NOTE: ███████████████
-
-      ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
+‎
 ‎ 
 ‎ 
 ‎ 
