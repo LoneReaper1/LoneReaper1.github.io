@@ -55,7 +55,7 @@ Security Clearence LvL: 4
 
      * COMMAND: how is 00957 doing?
      
-     * HRM: he's... acting weird, he's being more cautious
+     * HRM: he's... acting weird?
      
      * COMMAND: what do you mean he's "acting weird" he was just fine yesterday
 
