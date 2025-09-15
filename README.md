@@ -51,22 +51,24 @@ Security Clearence LvL: 4
 
 ---- MESSAGES ----
 
-2025-09-14: COMMAND: how is 00957 doing?
-     HRM: he's... acting weird, he's being more cautious
-     COMMAND: what do you mean he's "acting weird" he was just fine yesterday
-     HRM: i have no idea-
-     COMMAND: never mind, how is he acting?
-     HRM: he's acting like someone is watching him, constantly looking over hi-
-     COMMAND: just keep monitoring him, be careful, we don't want another incident
-     HRM: alright, we'll continue to monitor him, yeah that was awful, i'm surprised th-
+2025-09-14: 
+     * COMMAND: how is 00957 doing?
+     * HRM: he's... acting weird, he's being more cautious
+     * COMMAND: what do you mean he's "acting weird" he was just fine yesterday
+     * HRM: i d- 
+     * COMMAND: never mind, how is he acting?
+     * HRM: he's acting like someone is watching him, constantly looking over hi-
+     * COMMAND: just keep monitoring him, be careful, we don't want another incident
+     * HRM: alright, we'll continue to monitor him, yeah that was awful, i'm surprised th-
 
      * CONNECTION TIMED OUT: RECOVERY FAILED
 
 
-2025-09-13: COMMAND: how is 00957 doing?
-     HRM: good, nothing out of the ordinary
-     COMMAND: good, keep monitoring him
-     HRM: will do
+2025-09-13: 
+     * COMMAND: how is 00957 doing?
+     * HRM: good, nothing out of the ordinary
+     * COMMAND: good, keep monitoring him
+     * HRM: will do
 
      * CONNECTION CLOSED: SAVED
 
