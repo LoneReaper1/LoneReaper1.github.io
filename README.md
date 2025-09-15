@@ -37,6 +37,7 @@ Security Clearence LvL: 4
 ---- SUBJECTS ----
 * S-00957 (alias: "ReaperTheProto")
      NOTE: monitor at all costs
+    UPDATE: S-00957 has been made Security Clearence LvL: 4 or higher, due to the need of increased surveillance
 
 * S-00956 (alias: "_N█████")
       NOTE: ███████████████
