@@ -6,7 +6,18 @@ Security Clearence LvL: 4
      * WARNING: Per higher command's requests, we are archiving this site for security reasons, ETA: <Unknown>
 
 
-
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
 
 
 
@@ -33,6 +44,16 @@ Security Clearence LvL: 4
 
 
 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
 
 
 ---- INFO ----
@@ -44,6 +65,17 @@ Security Clearence LvL: 4
 *    ![image_house.png](2025-09-14_20.51.00.png)
 
 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
 
 
 ---- LOGS ----
@@ -53,14 +85,24 @@ Security Clearence LvL: 4
 
      * "2025-09-13: 00957: normal, nothing unusual, will continue to monitor
  
-     *      ACCESS DENIED!: Security Clearence LvL: 6 or higher required
- 
+     *      ERROR: LOG "2025-09-12" NOT FOUND
+     *      ERROR: FOLDER "2022-06-14 - 2025-09-12" NOT FOUND
 
      * "2022-06-13: S-00957 (alias: "ReaperTheProto") is now a subject, per higher command requests, we will actively monitor 00957
  
 
 
 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
 
 
 ---- MESSAGES ----
