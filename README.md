@@ -1,6 +1,6 @@
 ---- ACCESS GRANTED ----
 
-Welcome "Remote admin", connected via: SSH,
+Welcome "Remote admin", connected via: SSH
 
 Security Clearence LvL: 4
 
