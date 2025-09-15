@@ -37,19 +37,34 @@ Security Clearence LvL: 4
 ---- SUBJECTS ----
 * S-00957 (alias: "ReaperTheProto")
      NOTE: monitor at all costs
-* [REDACTED] Security clearence lvl: 6  or higher required
 
-[TEXT REDACTED]
-'ERROR': Contact a security clearence lvl 6 or higher to view
+* S-00956 (alias: "██████")
+      NOTE: ███████████████
+
+      ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
+
+* S-00955 (alias: "██████")
+      NOTE: ███████████████
+
+      ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 
+* S-00954 (alias: "██████")
+      NOTE: ███████████████
 
+      ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 ‎ 
+‎ * S-00953 (alias: "██████")
+      NOTE: ███████████████
+
+      ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 ‎ 
 ‎ 
-‎ 
-‎ 
+‎ * S-00952 (alias: "██████")
+      NOTE: ███████████████
+
+      ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 ‎ 
 ‎ 
 ‎ 
@@ -66,6 +81,35 @@ Security Clearence LvL: 4
 *    ![image_house.png](2025-09-14_20.51.00.png)
 
 
+* S-00956 (alias: "██████")
+
+        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+‎ 
+
+* S-00955 (alias: "██████")
+
+        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+
+
+* S-00954 (alias: "██████")
+
+        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+
+
+* S-00953 (alias: "██████")
+
+        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+
+
+* S-00952 (alias: "██████")
+
+        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+
+        ERROR: FILE "S-00951" NOT FOUND
+
+        ERROR: FILE "S-00950" NOT FOUND
+
+        ERROR: FOLDIER "S-00949 - S-00940" NOT FOUND
 ‎ 
 ‎ 
 ‎ 
@@ -73,7 +117,9 @@ Security Clearence LvL: 4
 ‎ 
 ‎ 
 ‎ 
-‎ 
+        
+        ACCESSING S-00957 LOGS
+
 ‎ 
 ‎ 
 ‎ 
