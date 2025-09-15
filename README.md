@@ -1,12 +1,30 @@
-<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Your Website Title</title>
-    </head>
-    <body>
-        <h1>Testing<h1>
-    </body>
-    </html>
-    
+---- ACCESS GRANTED ----
+
+Welcome "Remote admin", connected via: SSH
+Security Clearence LvL: 4
+
+
+
+
+
+
+---- SUBJECTS ----
+* S-00957 (alias: "ReaperTheProto")
+     NOTE: monitor at all costs
+* [REDACTED] Security clearence lvl: 6 required
+
+[TEXT REDACTED]
+'ERROR': Contact a security clearence lvl 6 or higher to view
+
+
+
+
+
+
+---- INFO ----
+* S-00957 (alias: "ReaperTheProto")
+*     
+
+
+
+
