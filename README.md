@@ -127,7 +127,9 @@ Security Clearence LvL: 4
 
 ---- LOGS ----
 * S-00957
-  
+
+     * 2025-09-14: "00957: video tape number 005347 [hyperlink](https://youtu.be/-BhlKcBLc_s_)    
+     
      *  2025-09-14: "00957 seems to be acting a little weird, we have no idea what's happening, will continue to monitor"
 
      *  2025-09-13: "00957: normal, nothing unusual, will continue to monitor"
