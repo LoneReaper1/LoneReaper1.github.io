@@ -218,7 +218,7 @@ Security Clearence LvL: 4
      * [CONNECTION CLOSED: SAVED]
 
 
-* ACCESS DENIED!: Security Clearence LvL: 6 or higher required
+* ERROR: Security Clearence LvL: 6 or higher required
 
 
 
