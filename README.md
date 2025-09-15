@@ -83,27 +83,27 @@ Security Clearence LvL: 4
 
 * S-00956 (alias: "██████")
 
-        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+        ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 ‎ 
 
 * S-00955 (alias: "██████")
 
-        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+        ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 
 * S-00954 (alias: "██████")
 
-        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+        ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 
 * S-00953 (alias: "██████")
 
-        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+        ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 
 * S-00952 (alias: "██████")
 
-        ERROR: SECURITY CLEARENCE LVL % OR HIGHER REQUIRED
+        ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
         ERROR: FILE "S-00951" NOT FOUND
 
@@ -128,14 +128,14 @@ Security Clearence LvL: 4
 ---- LOGS ----
 * S-00957
   
-     * "2025-09-14: 00957 seems to be acting a little weird, we have no idea what's happening, will continue to monitor"
+     *  2025-09-14: "00957 seems to be acting a little weird, we have no idea what's happening, will continue to monitor"
 
-     * "2025-09-13: 00957: normal, nothing unusual, will continue to monitor
+     *  2025-09-13: "00957: normal, nothing unusual, will continue to monitor"
  
      *      ERROR: LOG "2025-09-12" NOT FOUND
      *      ERROR: FOLDER "2022-06-14 - 2025-09-12" NOT FOUND
 
-     * "2022-06-13: S-00957 (alias: "ReaperTheProto") is now a subject, per higher command requests, we will actively monitor 00957
+     *  2022-06-13: "S-00957 (alias: "ReaperTheProto") is now a subject, per higher command requests, we will actively monitor 00957"
  
 
 
