@@ -38,24 +38,24 @@ Security Clearence LvL: 4
 * S-00957 (alias: "ReaperTheProto")
      NOTE: monitor at all costs
 
-* S-00956 (alias: "██████")
+* S-00956 (alias: "_N█████")
       NOTE: ███████████████
 
       ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
-* S-00955 (alias: "██████")
+* S-00955 (alias: "I█████")
       NOTE: ███████████████
 
       ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 
-* S-00954 (alias: "██████")
+* S-00954 (alias: "P████")
       NOTE: ███████████████
 
       ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 ‎ 
-‎ * S-00953 (alias: "██████")
+‎ * S-00953 (alias: "A█████")
       NOTE: ███████████████
 
       ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
@@ -77,22 +77,22 @@ Security Clearence LvL: 4
 *    ![image_house.png](2025-09-14_20.51.00.png)
 
 
-* S-00956 (alias: "██████")
+* S-00956 (alias: "_N█████")
 
         ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 ‎ 
 
-* S-00955 (alias: "██████")
+* S-00955 (alias: "I█████")
 
         ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 
-* S-00954 (alias: "██████")
+* S-00954 (alias: "P█████")
 
         ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
 
-* S-00953 (alias: "██████")
+* S-00953 (alias: "A█████")
 
         ERROR: SECURITY CLEARENCE LVL 5 OR HIGHER REQUIRED
 
@@ -129,7 +129,7 @@ Security Clearence LvL: 4
      *  2025-09-13: "00957: normal, nothing unusual, will continue to monitor"
  
      *      ERROR: LOG "2025-09-12" NOT FOUND
-     *      ERROR: FOLDER "2022-06-14 - 2025-09-12" NOT FOUND
+     *      ERROR: LOGS "2022-06-14 - 2025-09-12" NOT FOUND
 
      *  2022-06-13: "S-00957 (alias: "ReaperTheProto") is now a subject, per higher command requests, we will actively monitor 00957"
  
