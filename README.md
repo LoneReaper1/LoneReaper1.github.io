@@ -155,11 +155,11 @@ Security Clearence LvL: 4
 ---- MESSAGES ----
 
 2025-09-14: 
----- TIME 0050z ----
+---- TIME: 0050 ----
     
     * HRM: i got video proof
 
-    * COMMAND: mate it's 0050z i'm trying to sleep
+    * COMMAND: mate it's 12:50 i'm trying to sleep
 
     * HRM: just watch, please
 
@@ -183,7 +183,7 @@ Security Clearence LvL: 4
 
 
 
----- TIME: 2200z ----
+---- TIME: 2200 ----
     
      * COMMAND: how is 00957 doing?
      
